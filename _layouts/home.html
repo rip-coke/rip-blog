@@ -18,6 +18,8 @@ comments: true
   {% include documents-collection.html entries=posts type=entries_layout %}
 </div>
 
+{% include paginator.html %}
+
 {% if site.comments.provider and page.comments %}
   {% if jekyll.environment == 'production' %}
     {% include comments.html %}
@@ -29,4 +31,4 @@ comments: true
   {% endif %}
 {% endif %}
 
-{% include paginator.html %}
+
