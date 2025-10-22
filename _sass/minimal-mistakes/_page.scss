@@ -229,7 +229,9 @@ body {
 }
 
 .page__hero-image {
-  width: 100%;
+  display: block;
+  margin: auto;
+  width: 50%;
   height: auto;
   -ms-interpolation-mode: bicubic;
 }
