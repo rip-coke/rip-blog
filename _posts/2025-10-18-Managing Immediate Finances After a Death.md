@@ -4,7 +4,7 @@ header:
     image: /assets/images/finances.png
 ---
 
-When a family member dies, financial tasks come fast and can feel overwhelming. This guide outlines immediate steps Kenyan households should take to protect assets, access funds, and avoid common pitfalls.
+When a family member dies, financial tasks come fast and can feel overwhelming. This guide outlines immediate steps households should take to protect assets, access funds, and avoid common pitfalls.
 
 ## 1. Secure the deceased’s documents and belongings
 - **Collect:** national ID, death notification/certificate (if issued), KRA PIN, bank cards, cheque books, title deeds, insurance policies, NHIF card, pension letters, and mobile money details (Safaricom M-PESA).  
@@ -25,7 +25,7 @@ When a family member dies, financial tasks come fast and can feel overwhelming. 
 - Continue essential payments (rates, utilities) using family funds to avoid disconnection while probate is arranged.
 
 ## 5. Small estates and quick claims
-- Kenyan banks often allow beneficiaries to claim modest balances with a death certificate and affidavit; rules vary by bank and amount—ask your branch.  
+- Banks often allow beneficiaries to claim modest balances with a death certificate and affidavit; rules vary by bank and amount—ask your branch.  
 - Funeral insurance/policies often pay quickly; use those funds first to cover funeral costs.
 
 ## 6. Probate and estate administration (short-term view)

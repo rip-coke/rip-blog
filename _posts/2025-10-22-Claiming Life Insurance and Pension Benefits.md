@@ -4,7 +4,7 @@ header:
     image: /assets/images/pension.png
 ---
 
-Claiming life insurance and pension benefits after a death is essential to cover funeral costs and longer‑term family needs. This concise, practical guide outlines steps specific to Kenya.
+Claiming life insurance and pension benefits after a death is essential to cover funeral costs and longer‑term family needs. Here is a concise, practical guide.
 
 ## Immediate steps
 - **Locate policy documents:** Find life insurance policies, funeral policies, and pension details (employer letters, PINs, contact info).  

@@ -4,7 +4,7 @@ header:
     image: /assets/images/funeral.png
 ---
 
-Arranging a funeral quickly after a death can be costly and stressful. This 500‑word guide gives practical, affordable steps for Kenyan families while respecting cultural and religious practices.
+Arranging a funeral quickly after a death can be costly and stressful. This 500‑word guide gives practical, affordable steps for families while respecting cultural and religious practices.
 
 ## Plan first, act fast
 - **Set a budget:** List essential items (coffin or shroud, burial or cremation fees, transport, venue/venue hire, clergy/ceremony fees, basic catering) and optional extras (flowers, printed programmes, large receptions).  

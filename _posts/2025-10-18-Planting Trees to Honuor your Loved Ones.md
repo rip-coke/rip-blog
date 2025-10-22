@@ -4,7 +4,7 @@ header:
     image: /assets/images/plant.png
 ---
 
-Planting a tree as a living memorial is meaningful, affordable, and environmentally positive. This short guide outlines practical steps for Kenyan families to create a lasting tribute.
+Planting a tree as a living memorial is meaningful, affordable, and environmentally positive. This short guide outlines practical steps for families to create a lasting tribute.
 
 ## Choosing the right tree and location
 - **Purpose:** Shade, fast growth, fruit, or native species for biodiversity.  

@@ -4,7 +4,7 @@ header:
     image: /assets/images/death_cert.png
 ---
 
-A burial permit is required for lawful interment in Kenya and helps prevent illegal burials and disputes. This guide explains when and how to obtain burial permits, fees, and practical tips.
+A burial permit is required for lawful interment and helps prevent illegal burials and disputes. This guide explains when and how to obtain burial permits, fees, and practical tips.
 
 ## What is a burial permit
 - A burial permit (or burial order) is an official document from the county or cemetery manager authorising interment in a specific grave or cemetery. It ensures legal compliance and proper record‑keeping.

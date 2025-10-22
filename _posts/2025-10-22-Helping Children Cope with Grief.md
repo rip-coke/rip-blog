@@ -4,7 +4,7 @@ header:
     image: /assets/images/grief.png
 ---
 
-Losing a loved one is hard for anyone; for children, it can be confusing, frightening and isolating. This guide offers practical, culturally aware steps Kenyan caregivers, teachers and community leaders can use to support children through bereavement.
+Losing a loved one is hard for anyone; for children, it can be confusing, frightening and isolating. This guide offers practical, culturally aware steps caregivers, teachers and community leaders can use to support children through bereavement.
 
 ## Understand age-appropriate reactions
 - **Toddlers (1–4 years):** May show regressive behaviour (bed‑wetting, clinginess), disrupted sleep and repeated questions. They feel the absence but don’t grasp permanence.  
@@ -17,7 +17,7 @@ Losing a loved one is hard for anyone; for children, it can be confusing, fright
 3. **Allow questions and repeat answers.** Children often ask the same questions as they process loss — answer calmly each time.  
 4. **Prepare them for funeral events.** Explain what will happen at a burial or wake (who will be there, expected dress, loud or solemn moments). Describe local practices (church service, sending-off ceremony, traditional rites) so the child knows what to expect.
 
-## Culturally sensitive approaches in Kenya
+## Culturally sensitive approaches
 - **Use community resources.** Many families find comfort through church groups, elder relatives, village elders, or women’s groups (chamas). Invite trusted community members to support the child.  
 - **Incorporate rituals.** Simple participation—lighting a candle at church, laying a flower, or planting a tree—can help children express sorrow in familiar cultural ways.  
 - **Respect intergenerational roles.** Coordinate with grandparents, aunties/uncles, or community leaders so messages and routines are consistent.
@@ -28,11 +28,11 @@ Losing a loved one is hard for anyone; for children, it can be confusing, fright
 - **Offer choices:** Give the child small decisions (which photo to place on the memorial table, whether to attend part of the funeral) to restore a sense of control.
 
 ## When to seek professional help
-Look for prolonged or severe changes: persistent withdrawal, intense anxiety, decline in school performance, self‑harm talk, or behaviours lasting several months. In Kenya, contact a school counsellor, church counsellor, or mental health professional. If local services are limited, national helplines, NGOs, or university psychology departments may provide support.
+Look for prolonged or severe changes: persistent withdrawal, intense anxiety, decline in school performance, self‑harm talk, or behaviours lasting several months. Contact a school counsellor, church counsellor, or mental health professional. If local services are limited, national helplines, NGOs, or university psychology departments may provide support.
 
 ## Practical resources and activities
 - **Memory box:** Collect photos, letters and small items to remember the person.  
 - **Storytime:** Share positive memories and simple life stories about the deceased.  
-- **Plant a tree:** A living memorial that fits many Kenyan communities and the environment.
+- **Plant a tree:** A living memorial that fits many communities and the environment.
 
 Supporting a grieving child is ongoing. Consistent care, honest communication, community involvement and culturally meaningful rituals help children process loss and rebuild a sense of safety.

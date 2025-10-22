@@ -4,10 +4,10 @@ header:
     image: /assets/images/death_cert.png
 ---
 
-A death certificate is essential for funerals, bank claims, insurance, pension and legal processes. This guide explains the Kenyan process, required documents, typical timelines and practical tips.
+A death certificate is essential for funerals, bank claims, insurance, pension and legal processes. This guide explains the process, required documents, typical timelines and practical tips.
 
 ## Who issues death certificates
-- In Kenya, a death is certified by a medical practitioner (for natural deaths) or by a medical officer/forensic pathologist (for unnatural deaths). The hospital, police, or county registrar issues the official certificate or notification needed for burial and legal claims.
+- A death is certified by a medical practitioner (for natural deaths) or by a medical officer/forensic pathologist (for unnatural deaths). The hospital, police, or county registrar issues the official certificate or notification needed for burial and legal claims.
 
 ## Immediate steps at the place of death
 1. **If death occurs in hospital:** The hospital issues a medical certificate of cause of death and provides guidance on obtaining the official death certificate from the county registrar.  
