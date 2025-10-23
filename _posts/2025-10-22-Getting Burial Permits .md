@@ -1,7 +1,7 @@
 ---
 author_profile: false
 header:
-    image: /assets/images/death_cert.png
+    image: /assets/images/permit.jpg
 ---
 
 A burial permit is required for lawful interment and helps prevent illegal burials and disputes. This guide explains when and how to obtain burial permits, fees, and practical tips.
