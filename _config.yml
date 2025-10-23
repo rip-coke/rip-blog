@@ -110,6 +110,7 @@ analytics:
     tracking_id          : "G-CH99TD29T7"
     anonymize_ip         : # true, false (default)
 
+
 # Site Author
 author:
   name             : "Rip Ke"
