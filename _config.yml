@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : "Your Trusted and Practical Guide to Managing Loss and Bereavement" # site tagline that appears below site title in masthead
 name                     : "Rip Ke"
 description              : "At Rip.ke Get all the information you need to lighten the bereavement process: clear, practical and simple. Let us lighten your load in these difficult times."
-url                      : "https://info.rip.ke" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://rip.ke" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/rip.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
