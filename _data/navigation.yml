@@ -13,10 +13,12 @@ main:
   - title: "Home"
     url: https://rip.ke/
   - title: "Post Obituary"
-    url: https://rip.ke/about/
+    url: https://rip.ke/post/
   - title: "Plant Trees"
     url: https://rip.ke/trees/
   - title: "Useful Info"
     url: https://info.rip.ke
-  - title: "Contact Us"
+  - title: "About"
+    url: https://rip.ke/about/
+  - title: "Contact"
     url: https://rip.ke/contact/
