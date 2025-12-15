@@ -1,7 +1,7 @@
 ---
 author_profile: false
 header:
-    image: /assets/images/obituary_tempate.png
+    image: /assets/images/obituary_tempate.jpg
 excerpt: Finding the right words while grieving is hard. Copy-paste wording suitable for newspapers and WhatsApp from our 5 free Kenyan obituary templates.
 ---
 Losing someone you love is shattering. In the midst of grief, the immediate pressure to inform extended family, friends, and the community can feel overwhelming.
@@ -65,7 +65,7 @@ A thanksgiving service will be held at **[Church Name]** on **[Date]** at **[Tim
 ---
 
 
-<img src="/assets/images/obituary_template_2.png" alt="writing an obituary">
+<img src="/assets/images/obituary_template_2.jpg" alt="writing an obituary">
 
 ### Template 3: The Short & Direct (Ideal for Social Media)
 
@@ -116,7 +116,7 @@ Forever in our hearts.
 
 ---
 
-<img src="/assets/images/obituary_template_3.png" alt="obituaries Kenya">
+<img src="/assets/images/obituary_template_3.jpg" alt="obituaries Kenya">
 
 ### A Final thought: Sharing Their Story
 
