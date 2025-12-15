@@ -1,7 +1,7 @@
 ---
 author_profile: false
 header:
-    image: /assets/images/plant.png
+    image: /assets/images/plant.jpg
 ---
 
 Planting a tree as a living memorial is meaningful, affordable, and environmentally positive. This short guide outlines practical steps for families to create a lasting tribute.

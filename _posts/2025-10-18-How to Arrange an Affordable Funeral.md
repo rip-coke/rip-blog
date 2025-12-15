@@ -1,7 +1,7 @@
 ---
 author_profile: false
 header:
-    image: /assets/images/funeral.png
+    image: /assets/images/funeral.jpg
 ---
 
 Arranging a funeral quickly after a death can be costly and stressful. This 500‑word guide gives practical, affordable steps for families while respecting cultural and religious practices.

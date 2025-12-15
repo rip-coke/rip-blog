@@ -1,7 +1,7 @@
 ---
 author_profile: false
 header:
-    image: /assets/images/finances.png
+    image: /assets/images/finances.jpg
 ---
 
 When a family member dies, financial tasks come fast and can feel overwhelming. This guide outlines immediate steps households should take to protect assets, access funds, and avoid common pitfalls.

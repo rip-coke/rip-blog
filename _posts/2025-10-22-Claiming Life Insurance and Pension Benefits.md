@@ -1,7 +1,7 @@
 ---
 author_profile: false
 header:
-    image: /assets/images/pension.png
+    image: /assets/images/pension.jpg
 ---
 
 Claiming life insurance and pension benefits after a death is essential to cover funeral costs and longer‑term family needs. Here is a concise, practical guide.
