@@ -73,4 +73,4 @@ The to-do list will still be there tomorrow. For now, just focus on these few st
 
 We are here to help with the words.
 
-When you are ready to share the news with the wider world, you don't have to struggle with what to say. We have prepared [Free Obituary Templates](https://info.rip.ke/Wording-A-Goodbye-5-Obituary-Templates/) (add link to that specific text) to help you find the right words, or you can create a lasting tribute page here on [rip.ke](https://rip.ke).
+When you are ready to share the news with the wider world, you don't have to struggle with what to say. We have prepared [Free Obituary Templates](https://info.rip.ke/Wording-A-Goodbye-5-Obituary-Templates/) to help you find the right words, or you can create a lasting tribute page here on [rip.ke](https://rip.ke).
