@@ -37,13 +37,13 @@ If you are stuck, use this simple 3-part structure.
 
 1. **The Opening (The Introduction)** Start by stating your relationship to the deceased.
 
-- *Example*: "For those who don't know me, I am Wangari, and I was lucky enough to call [Name] my best friend for 20 years."
+    - *Example*: "For those who don't know me, I am Wangari, and I was lucky enough to call [Name] my best friend for 20 years."
 
 2. **The Stories**: Pick 2 or 3 specific stories from your brainstorm list that fit your theme.
 
-- *Instead of saying*, "He was generous."
+    - *Instead of saying*, "He was generous."
 
-- *Say*: "I remember when he paid school fees for the neighbour's child and told us never to mention it. That is who he was."
+    - *Say*: "I remember when he paid school fees for the neighbour's child and told us never to mention it. That is who he was."
 
 3. **Closing (Farewell)** Speak directly to the deceased or offer a final wish for them.
 Example: "Lala salama, Mzee. We will take it from here."
