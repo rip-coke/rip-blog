@@ -1,3 +1,9 @@
+---
+author_profile: false
+header:
+    image: /assets/images/how-to-write-a-eulogy-kenya-guide.jpg
+---
+
 Struggling to write a funeral speech? Use our simple guide to writing a touching eulogy or tribute in Kenya. Learn what to say and how to structure it.
 
 
