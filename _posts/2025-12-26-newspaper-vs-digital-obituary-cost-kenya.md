@@ -47,11 +47,11 @@ Have you ever tried to write an obituary for a newspaper? It often involves pain
 
 FEATURE|TRADITIONAL NEWSPAPER AD|RIP.KE DIGITAL MEMORIAL
 -|-|-
-Cost|High (KES 15k - 50k+)|Low (Flat Fee ~KES 5k)
-Lifespan|1 Day (24 Hours)|Permanent (Forever)
-Space|Limited (Pay per word/cm)|Unlimited (Photos & Text)
-Reach|Local (Only where sold)|Global (Shareable Link)
-Edits|Impossible once printed|Edit anytime
+**Cost**|High (KES 15k - 50k+)|Low (Flat Fee ~KES 5k)
+**Lifespan**|1 Day (24 Hours)|Permanent (Forever)
+**Space**|Limited (Pay per word/cm)|Unlimited (Photos & Text)
+**Reach**|Local (Only where sold)|Global (Shareable Link)
+**Edits**|Impossible once printed|Edit anytime
 
 
 We understand that for some families, the tradition of the newspaper is important, especially for reaching older relatives who don't use smartphones.
