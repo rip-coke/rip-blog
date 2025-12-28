@@ -1,3 +1,10 @@
+---
+author_profile: false
+header:
+    image: /assets/images/newspaper-vs-digital-obituary-cost-kenya.jpg
+excerpt: Shocked by newspapers obituary rates? See the cost comparison between traditional newspaper ads and permanent digital obituaries on rip.ke. Save money without compromising on legacy.
+---
+
 For decades, placing an obituary in one of Kenya’s leading newspapers has been the standard way to announce a passing. It is a tradition many of us grew up with. But as funeral costs rise across the country, families are starting to ask a difficult question: Is a one-day newspaper announcement really the best use of our limited budget?
 When you compare the costs and the longevity, the difference between the traditional print route and the modern digital approach is staggering.
 Here is a breakdown of the real costs of newspaper vs. digital obituaries to help you make the right choice for your family.
@@ -47,7 +54,3 @@ This saves you money on the print ad while still giving your loved one the detai
 Conclusion
 Legacy shouldn't be expensive, and it certainly shouldn't be temporary. While newspapers serve a purpose for immediate notification, they cannot offer a place for a legacy to live on.
 Get Started with rip.ke. to create a permanent, beautiful, and affordable memorial.
-
-Meta Description: Shocked by newspapers obituary rates? See the cost comparison between traditional newspaper ads and permanent digital obituaries on rip.ke. Save money without compromising on legacy.
-Slug: /newspaper-vs-digital-obituary-cost-kenya/
-
