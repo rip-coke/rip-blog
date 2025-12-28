@@ -13,13 +13,13 @@ Here is a breakdown of the real costs of newspaper vs. digital obituaries to hel
 
 1. **The Financial Cost: KES 15,000 vs. KES 5,000**
 
-The most immediate difference is the price tag. Newspaper pricing is based on space, every centimeter counts.
+  The most immediate difference is the price tag. Newspaper pricing is based on space, every centimeter counts.
 
   - **The Newspaper Reality:** A standard, modest obituary (often black and white, with a small photo) in a major Kenyan daily newspaper can start anywhere from **KES 12,000 to KES 20,000**. If you want color, or a larger size to include a poem or a full list of relatives, the price can easily jump to **KES 40,000 or more**.
     
   - **The Digital Alternative:** At **rip.ke**, we offer a flat-rate model. For a one-time fee (starting at just **KES 5,000**), you get a premium memorial profile. No word counts, no "per centimeter" charges.
 
-You could save over **70%** of your announcement budget by switching to digital money that can be better used for the funeral service or hospital bills.
+  You could save over **70%** of your announcement budget by switching to digital money that can be better used for the funeral service or hospital bills.
 
 2. **The Lifespan: 24 Hours vs. Forever**
 
@@ -29,7 +29,7 @@ You could save over **70%** of your announcement budget by switching to digital 
 
 3. **The Content Limit: "Cutting Words" vs. "Telling the Whole Story"**
 
-Have you ever tried to write an obituary for a newspaper? It often involves painful editing.
+  Have you ever tried to write an obituary for a newspaper? It often involves painful editing.
 
   - **The Print Struggle:** You find yourself deleting sentences to save money. You might have to leave out the names of grandchildren or cut the "Eulogy" down to just two sentences because the ad space is too expensive.
 
