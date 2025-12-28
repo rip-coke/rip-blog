@@ -11,7 +11,7 @@ When you compare the costs and the longevity, the difference between the traditi
 
 Here is a breakdown of the real costs of newspaper vs. digital obituaries to help you make the right choice for your family.
 
-1.**The Financial Cost: KES 15,000 vs. KES 5,000**
+### 1. The Financial Cost: KES 15,000 vs. KES 5,000
 
 The most immediate difference is the price tag. Newspaper pricing is based on space, every centimeter counts.
 
@@ -21,13 +21,13 @@ The most immediate difference is the price tag. Newspaper pricing is based on sp
 
 You could save over **70%** of your announcement budget by switching to digital money that can be better used for the funeral service or hospital bills.
 
-2.**The Lifespan: 24 Hours vs. Forever**
+### 2. The Lifespan: 24 Hours vs. Forever
 
 - Newspapers expire in 24 hours. It is a harsh reality, but yesterday’s newspaper is often used to wrap meat or vegetables today. You pay thousands of shillings for a tribute that is viewed for one morning and then discarded.
 
 - Digital is Permanent. A digital obituary on rip.ke does not have an expiration date. It stays online forever. It becomes a permanent archive where grandchildren can one day visit to see their ancestor's face, read their life story, and see the tributes left by friends.
 
-3.**The Content Limit: "Cutting Words" vs. "Telling the Whole Story"**
+### 3. The Content Limit: "Cutting Words" vs. "Telling the Whole Story"
 
 Have you ever tried to write an obituary for a newspaper? It often involves painful editing.
   
