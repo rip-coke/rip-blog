@@ -311,6 +311,8 @@ compress_html:
   ignore:
     envs: development
 
+head_scripts:
+ - assets/js/facebook-pixel.js
 
 # Defaults
 defaults:
