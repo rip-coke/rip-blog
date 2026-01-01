@@ -2,6 +2,7 @@
 author_profile: false
 header:
     image: /assets/images/grief.jpg
+    image_alt: Dealing with grief after a loss
 ---
 
 Losing a loved one is hard for anyone; for children, it can be confusing, frightening and isolating. This guide offers practical, culturally aware steps caregivers, teachers and community leaders can use to support children through bereavement.

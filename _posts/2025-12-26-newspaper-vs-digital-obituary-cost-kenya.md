@@ -2,6 +2,7 @@
 author_profile: false
 header:
     image: /assets/images/newspaper-vs-digital-obituary-cost-kenya.jpg
+    image_alt: Newspaper obituary rates
 excerpt: Shocked by newspapers obituary rates? See the cost comparison between traditional newspaper ads and permanent digital obituaries on rip.ke. Save money without compromising on legacy.
 ---
 

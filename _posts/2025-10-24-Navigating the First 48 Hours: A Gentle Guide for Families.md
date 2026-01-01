@@ -2,6 +2,7 @@
 author_profile: false
 header:
     image: /assets/images/nav.jpg
+    image_alt: Navigating the first 48 hours after a loss
 excerpt: Navigating the first 48 hours after a death in Kenya can be paralyzing. Here’s a gentle step by step practical guide on what to do during a difficult time.
 ---
 Receiving the call that a loved one has passed away is a moment that stops time. Suddenly, the world feels heavy, and your mind might feel like a fog.
@@ -35,7 +36,7 @@ Here is a gentle guide to help you navigate just the next two days, taking it on
 
 ---
 
-<img src="/assets/images/nav_2.jpg" alt="obituaries Kenya">
+[obituaries Kenya](/assets/images/nav_2.jpg){: .align-center}
 
 ### Part 2: The Next Day (Gathering Your Circle)
 

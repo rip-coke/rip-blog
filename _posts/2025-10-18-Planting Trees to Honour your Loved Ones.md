@@ -2,6 +2,7 @@
 author_profile: false
 header:
     image: /assets/images/plant.jpg
+    image_alt: Planting trees as a tribute  to the dearly departed
 ---
 
 Planting a tree as a living memorial is meaningful, affordable, and environmentally positive. This short guide outlines practical steps for families to create a lasting tribute.

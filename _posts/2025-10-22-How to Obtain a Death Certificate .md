@@ -2,6 +2,7 @@
 author_profile: false
 header:
     image: /assets/images/death_cert.jpg
+    image_alt: Obtaining a death certificate
 ---
 
 A death certificate is essential for funerals, bank claims, insurance, pension and legal processes. This guide explains the process, required documents, typical timelines and practical tips.
