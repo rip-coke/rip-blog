@@ -28,11 +28,11 @@ A child’s understanding of death depends entirely on their age. You might see 
 
 The most common mistake we make is using "soft" words to protect them.
 
-- Avoid Euphemisms: Phrases like "He went to sleep" or "She went on a long journey" are terrifying to a child. They might become afraid of going to sleep or travelling.
+- **Avoid Euphemisms:** Phrases like "He went to sleep" or "She went on a long journey" are terrifying to a child. They might become afraid of going to sleep or travelling.
 
-- Be Honest & Clear: It is painful, but you must use the words "died" or "passed away."
+- **Be Honest & Clear:** It is painful, but you must use the words "died" or "passed away."
 
-    - Say: "I have very sad news. Grandmother was very sick, and her body stopped working. She has died."
+    - **Say:** "I have very sad news. Grandmother was very sick, and her body stopped working. She has died."
 
 #### 3. Should Children Attend the Funeral?
 
