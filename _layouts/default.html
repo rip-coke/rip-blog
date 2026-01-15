@@ -7,6 +7,29 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <style>
+      .whatsapp-float {
+        position: fixed;
+        width: 60px;
+        height: 60px;
+        bottom: 40px;
+        right: 40px;
+        background-color: #25d366;
+        color: #fff;
+        border-radius: 50px;
+        text-align: center;
+        font-size: 30px;
+        box-shadow: 2px 2px 3px #999;
+        z-index: 100;
+        padding-top: 6px;
+        padding-left: 2px;
+      }
+      .whatsapp-float:hover {
+        text-decoration: none;
+        color: #fff;
+        background-color: #128c7e;
+      }
+    </style>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">
@@ -32,5 +55,9 @@
     </div>
 
     {% include scripts.html %}
+    <a href="https://wa.me/+254714771459?text=Hello%20from%20{{ site.title }}" class="whatsapp-float" target="_blank" rel="noopener">
+      <i class="fab fa-whatsapp"></i>
+    </a>
+
   </body>
 </html>
