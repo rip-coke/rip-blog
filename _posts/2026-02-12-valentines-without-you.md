@@ -26,7 +26,7 @@ Death ends a life, but it does not end a relationship.
 
 On Valentine's Day, the relationship just looks different. It’s no longer about dinner reservations. It’s about memory. It’s about legacy. It’s about honoring the imprint they left on your soul.
 
-![Figure 2 Valentine memories](/assets/images/valentines_2.jpg)
+![Figure 2 Valentine memories](/assets/images/valentines_2.jpg){: .align-center}
 
 #### Three Gentle Ways to Honor Your Love Today
 
@@ -48,7 +48,7 @@ If today hurts, you are allowed to hurt. You don't have to "look on the bright s
 
 What we *can offer*, however, is a space where that pain is respected. *The Unapologetic Mic* offers the space to speak about it. [RIP.ke](https://rip.ke) offers the space to **preserve it**. 
 
-![Figure 3 unapologetic mic ft rip.ke](/assets/images/valentines_3.jpg)
+![Figure 3 unapologetic mic ft rip.ke](/assets/images/valentines_3.jpg){: .align-center}
 
 We stand together to honor those who have lost partners. If today is unbearably heavy, please remember that you are not walking this path alone. There is a whole community of us who understand that the deepest grief is born from the deepest love. And remember that your reality, however messy or painful, is valid.
 
