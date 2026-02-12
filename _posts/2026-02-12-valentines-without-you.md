@@ -3,12 +3,15 @@ author_profile: false
 header:
     image: /assets/images/valentines_1.jpg
     image_alt: Figure 1 - Valentine and grief
+excerpt: Valentine's Day is heavy when your person is gone. Dreading the day? It is okay if it feels heavy. A gentle reminder for those navigating grief amidst the noise
 title: "When Your Valentine Isn't Here: Navigating the Hardest Day of the Year"
 ---
 
 If you walked into a supermarket today, you were probably assaulted by a sea of red and pink. Heart-shaped chocolates, oversized teddy bears. Everywhere you turn, there are reminders of romance, and social media is flooded with declarations of "forever."
 
-For most of the world, Valentine's Day is a day of romance and grand gestures. But for those of us navigating the loss of a partner, a spouse, or a great love, today doesn't feel like a celebration. It feels like a spotlight shining directly on an empty chair. It’s a deafening reminder of the silence in the house, the text message that won't arrive, and the hand you can no longer hold.
+For most of the world, Valentine's Day is a day of romance and grand gestures. But for those of us navigating the loss of a partner, a spouse, or a great love, today doesn't feel like a celebration. It feels like a spotlight shining directly on an empty chair. It’s a deafening reminder of the silence in the house, the text mForgot the meta description here it is 
+
+Valentine's Day is heavy when your person is gone. Dreading the day? It is okay if it feels heavy. A gentle reminder for those navigating grief amidst the noiseessage that won't arrive, and the hand you can no longer hold.
 
 But we all know that grief is simply love with nowhere to go. So, how do we navigate a day dedicated to love when our person is gone? 
 
