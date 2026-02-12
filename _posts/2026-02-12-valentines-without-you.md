@@ -1,10 +1,9 @@
 ---
 author_profile: false
 header:
-    image: /assets/images/living_tribute.jpg
-    image_alt: Figure 1 - Memorial tree planting Kenya
-excerpt:  Planting a tree is a powerful way to honor a loved one. Here are the best Kenyan tree species to choose and how rip.ke plants a tree for every memorial.
-title: "A Living Tribute: Why (and How) to Plant a Memorial Tree in Kenya"
+    image: /assets/images/valentines_1.jpg
+    image_alt: Figure 1 - Valentine and grief
+title: "When Your Valentine Isn't Here: Navigating the Hardest Day of the Year"
 ---
 
 If you walked into a supermarket today, you were probably assaulted by a sea of red and pink. Heart-shaped chocolates, oversized teddy bears. Everywhere you turn, there are reminders of romance, and social media is flooded with declarations of "forever."
